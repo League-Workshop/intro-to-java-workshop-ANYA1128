@@ -13,8 +13,8 @@ public class StephenHawking {
 		// 3. call the speak method below and send it the sentence
 		speak(answer);
 		// 4. Use a for loop to repeat steps #2 and #3, a lot of times
-	}   for(i=0;i<10;i++);
-	   
+	for(i=0;i<10;i++);
+	}
 	
 	
 

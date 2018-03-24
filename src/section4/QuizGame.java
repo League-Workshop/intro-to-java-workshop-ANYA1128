@@ -27,8 +27,8 @@ public class QuizGame {
 		if (answer.equals("125")) {
 			score++;
 		}
-		answer = JOptionPane.showInputDialog("What is 5+2?");
-		if (answer.equals("7")) {
+		answer = JOptionPane.showInputDialog("What is 50+50");
+		if (answer.equals("100")) {
 			score++;
 		}
 
